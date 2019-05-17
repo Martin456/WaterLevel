@@ -12,3 +12,6 @@ Example:
 Input: [1,8,6,2,5,4,8,3,7]
 Output: 49
 ```
+
+### Build Status
+[![Build Status](https://travis-ci.com/Martin456/WaterLevel.svg?branch=master)](https://travis-ci.com/Martin456/WaterLevel)
